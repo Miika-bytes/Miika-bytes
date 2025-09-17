@@ -1,4 +1,9 @@
-## Hi there 👋
+## 🌱 A Fresh Start
+
+My old GitHub was mostly college projects — this one’s for me.
+Here, I’m exploring, building, and creating without the constraints of assignments or grades.
+
+It’s a space to grow, experiment, and make things that truly feel like mine. 🚀
 
 <!--
 **Miika-bytes/Miika-bytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
